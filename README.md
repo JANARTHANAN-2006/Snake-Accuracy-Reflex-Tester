@@ -74,9 +74,10 @@ This project is **offline, standalone**, and runs locally with all data saved on
 
 1. Clone the repo:  
    ```bash
-   git clone <https://github.com/JANARTHANAN-2006/Snake-Accuracy-Reflex-Tester>
+   git clone https://github.com/JANARTHANAN-2006/Snake-Accuracy-Reflex-Tester
 
 Compile and run the game using Java 17+:
 
 javac SnakeAccuracyTester.java
+
 java SnakeAccuracyTester
